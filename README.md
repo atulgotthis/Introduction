@@ -1,5 +1,5 @@
 # INTRODUCTION
-Atul's Portfolio
+
 # Hello, I am [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Atul Pathak](https://www.linkedin.com/in/adityam-rajeev-3a3b57195/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adityam16&label=Views&color=blue&style=plastic" alt="Adityam16" /> </p>
@@ -23,15 +23,12 @@ Atul's Portfolio
 <br>
 
 
-* My primary coding language: C++.<br>
-* Earned 3 star at HackerRank in C++ programming.<br>
-* Writes code out of profession and passion and looking to expand my knowledge beyond horizon. <br>
-
+Hello! I'm thrilled to embark on my journey into the expansive world of data, and I'm excited to use this platform to document my learning and projects. As a data analytics enthusiast, I'm eager to dive deep into all facets of data and related fields, from wrangling messy datasets to uncovering compelling insights and building predictive models. I believe data holds the key to understanding complex problems and driving innovation, and I'm committed to continuously expanding my knowledge and skills in this dynamic domain.
 
  <br> 
-  🌱 I’m currently learning Web Development. <br>
+  🌱 I’m currently learning Data Analysis. <br>
   🤔 I’m looking for help with Backend.<br>
-  💬 Ask me about HTML or anything about GATE Sonipat.<br>
+  💬 .<br>
   😄 Pronouns: He/His<br>
   ⚡ Fun fact: Big marvel fan and watched all MCU movies atmost 7 times.<br>
 
