@@ -1,20 +1,14 @@
 # INTRODUCTION
 
-# Hello, I am [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Atul Pathak](https://www.linkedin.com/in/adityam-rajeev-3a3b57195/)
+# Hello, I am ATUL PATHAK
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adityam16&label=Views&color=blue&style=plastic" alt="Adityam16" /> </p>
 
-<a href="https://www.linkedin.com/in/adityam-rajeev-3a3b57195/">
-  <img align="left" alt="Adityam's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/atul-pathak-atulgotthis/">
+  <img align="left" alt="Atul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Adityam16">
-  <img align="left" alt="Adityam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/Adityam_16">
-  <img align="left" alt="Adityam's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.facebook.com/adityam.rajiv.5/">
-  <img align="left" alt="Adityam's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://github.com/atulgotthis">
+  <img align="left" alt="Atul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br/>
 <br/>
@@ -23,7 +17,7 @@
 <br>
 
 
-Hello! I'm thrilled to embark on my journey into the expansive world of data, and I'm excited to use this platform to document my learning and projects. As a data analytics enthusiast, I'm eager to dive deep into all facets of data and related fields, from wrangling messy datasets to uncovering compelling insights and building predictive models. I believe data holds the key to understanding complex problems and driving innovation, and I'm committed to continuously expanding my knowledge and skills in this dynamic domain.
+I'm thrilled to embark on my journey into the expansive world of data, and I'm excited to use this platform to document my learning and projects. As a data analytics enthusiast, I'm eager to dive deep into all facets of data and related fields, from wrangling messy datasets to uncovering compelling insights and building predictive models. I believe data holds the key to understanding complex problems and driving innovation, and I'm committed to continuously expanding my knowledge and skills in this dynamic domain.
 
  <br> 
   🌱 I’m currently learning Data Analysis. <br>
